@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="img/hash_game.gif"  alt="hash game gif"/>
+    <img src="img/hash.jpg"  alt="hash game Image"/>
     <br/>
     +
     <br/>
