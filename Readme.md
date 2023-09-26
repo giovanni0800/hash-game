@@ -1,6 +1,7 @@
 <h1 align="center">
     <img src="img/hash.png"  alt="hash game Image"/>
     <br/>
+    <br/>
     +
     <br/>
     <img src="img/kotlin_icon.png" alt="Kotlin Image" />
